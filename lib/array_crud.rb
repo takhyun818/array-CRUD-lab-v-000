@@ -14,13 +14,13 @@ end
 
 def add_element_to_start_of_array(array, element)
   x = ["cool", "awesome"]
-  x.unshift("wow") 
+  x.unshift("wow")
 
 end
 
 def remove_element_from_end_of_array(array)
   x = ("array", "element")
-  x.pop
+  element = x.pop
 
 end
 
